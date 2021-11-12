@@ -1,7 +1,5 @@
 # ITMO-Programming-1-sem
 
-Laboratory work on the subject "Programming (C)"
+Laboratory works on the subject "Programming (C language)" at ITMO
 
-The task is to write a WordCount utility. The program can count the number of lines and words in the file and display file's size in bytes.
-
-[Lab1](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/lab1/lab1.c "lab1") - [Task](Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211111T101702Z&X-Amz-Expires=86400&X-Amz-Signature=70582cf8e1b811f2b6cf809efdacabbcee1df5305c466d232834abce5441b92a&X-Amz-SignedHeaders=host&response-content-disp "Task")
+[Lab 1](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/lab1/lab1.c "Lab 1") - [Task](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/main/C.%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201.%20%D0%A3%D1%82%D0%B8%D0%BB%D0%B8%D1%82%D0%B0%20WordCount.pdf "Task") [WordCount Utility]
