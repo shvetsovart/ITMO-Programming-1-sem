@@ -69,6 +69,6 @@ int main(int argc, char* argv[]) {
 
     printf("%d %d [%d/Jul/1995:%d:%d:%d]-[%d/Jul/1995:%d:%d:%d]\n", cnt_errors, mx, dd, hh, mm, r1, dd2, hh2, mm2, r2);
 
-    free(&times);
+    free(times);
     return 0;
 }
