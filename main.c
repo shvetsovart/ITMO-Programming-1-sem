@@ -10,19 +10,6 @@ unsigned int swap_endians(unsigned int n) {
 		   ((n << 24) & 0xff000000);
 }
 
-void copyFile(FILE* inp, FILE* outp) {
-	int c;
-	while ((c = getc(inp)) != EOF)
-		putc(c, outp);
-}
-
-void putstr(char *str, FILE* outp) {
-    while(*str != '\0') {
-        putc(*str, outp);
-        str++;
-    }
-}
-
 struct tag_h {
     short empty;
     char version[3];
