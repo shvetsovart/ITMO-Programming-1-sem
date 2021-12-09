@@ -17,6 +17,6 @@ The task is to prepare a list of requests that ended in 5xx error, with number o
 [Lab 4](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/lab4/lab4.c "Lab 4") - [Task](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/lab4/C.%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204.%20%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%20%D0%BC%D0%B5%D1%82%D0%B0%D1%82%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8%20mp3.pdf "Task") [Mp3 file meta information editor]
 
 The task is to write 3 commands to work with the mp3 meta information: show, get and set. 
-- show - displaying all meta information in the form of a table
-- get=prop_name - display a specific field of meta information named prop_name
+- show - displays all meta information in the form of a table
+- get=prop_name - displays a specific field of meta information named prop_name
 - set=prop_name value=prop_value - exposes the value of a specific meta-information field named prop_name in prop_value
