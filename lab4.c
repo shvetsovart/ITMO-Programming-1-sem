@@ -94,12 +94,12 @@ void read_frames(char* file_name, char* frame_name, enum call_type request) {
 
 void set(char* file_name, char frame_name[4], char* frame_value) {
     FILE* file;
-	file = fopen(file_name, "rb+");
+    file = fopen(file_name, "rb+");
 
-	union tag_header tag;
-	fread(tag.buffer + 2, sizeof(char), 10, file);
+    union tag_header tag;
+    fread(tag.buffer + 2, sizeof(char), 10, file);
 
-	unsigned int tag_size = swap_endians(tag.data.size);
+    unsigned int tag_size = swap_endians(tag.data.size);
 
     char frame_was_found = 0;
     int pos, old_frame_size;
@@ -109,7 +109,7 @@ void set(char* file_name, char frame_name[4], char* frame_value) {
     union frame_header old_frame;
     char* old_value;
 
-	while (ftell(file) < tag_size + 10) {
+    while (ftell(file) < tag_size + 10) {
         union frame_header frame;
         fread(frame.buffer, 1, 10, file);
 
