@@ -20,3 +20,9 @@ The task is to write 3 commands to work with the mp3 meta-information: show, get
 - show - displays all meta-information in the form of a table
 - get=prop_name - displays a specific field of meta-information named prop_name
 - set=prop_name value=prop_value - exposes the value of a specific meta-information field named prop_name in prop_value
+
+[Lab 5](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/lab5/lab5.c "Lab 5") - [Task](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/main/C.%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%205.%20%D0%98%D0%B3%D1%80%D0%B0%20%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C.pdf "Task") [Conway's Game Of Life]
+
+The task is to write Conway's Game Of Life. The program (in addition to a .py program that collects all bmp files into one gif) can output gifs with gradiented lifes and bug (feature) gifs that have glitches and explosions.
+
+![Image](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/main/sample1.bmp)
