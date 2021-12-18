@@ -127,8 +127,8 @@ int main(int argc, char* argv[]) {
                 for (int j = 0; j < width; ++j) {
                     double tmp = 255.0 * j / width;
                     double tmp2 = 255.0 * i / height;
-                    int rs1 = (int)(tmp) * (img[i][j] == 1) % 255, rs2 = (int)(tmp2) * (img[i][j] == 1) % 255;
-                    int rz1 = (200 * (img[i][j] == 1) * j / width) % 200 + 55 * (img[i][j] == 1), rz2 = (200 * (img[i][j] == 1) * i / height) % 200 + 55 * (img[i][j] == 1);
+                    int rs1 = (int)(tmp) * (img[i][j] == 1) % 255, rs2 = (int)(tmp2) * (img[i][j] == 1) % 255; //for chaos
+                    int rz1 = (200 * (img[i][j] == 1) * j / width) % 200 + 55 * (img[i][j] == 1), rz2 = (200 * (img[i][j] == 1) * i / height) % 200 + 55 * (img[i][j] == 1); // for gradient
                     img_bytes[point] = rz1;
                     img_bytes[point + 1] = 0;
                     img_bytes[point + 2] = rz2;
