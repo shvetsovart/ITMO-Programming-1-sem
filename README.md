@@ -27,4 +27,4 @@ The task is to write Conway's Game Of Life. The program (in addition to a [.py p
 
 Sample BMP                                                                        |  Example                                                                          | Glitch Example |
 :--------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:-----------------------------------------------------|
-![](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/main/sample1.bmp)  |  ![](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/main/example.gif) | ![](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/main/glitch.gif) 
+![](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/main/sample1.bmp)  |  ![](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/main/example.gif) | <img src="https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/main/glitch.gif" width="200" /> 
