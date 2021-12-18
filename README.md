@@ -25,12 +25,6 @@ The task is to write 3 commands to work with the mp3 meta-information: show, get
 
 The task is to write Conway's Game Of Life. The program (in addition to a [.py program](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/lab5/bmptogif.py ".py program") that collects all bmp files into one gif) can output gifs with gradiented lifes and bug (feature) gifs that have glitches and explosions.
 
-![Sample BMP](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/main/sample1.bmp)
-
-![Example](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/main/example.gif)
-
-![Glitch Example](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/main/homer.gif)
-
 Sample BMP                                                                        |  Example                                                                          | Glitch Example |
 :--------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:-----------------------------------------------------|
 ![](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/main/sample1.bmp)  |  ![](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/main/example.gif) | ![](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/main/homer.gif)
