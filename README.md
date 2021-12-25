@@ -31,4 +31,4 @@ Sample BMP                                                                      
 
 [Lab 6](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/lab6/lab6.c "Lab 6") - [Task](https://github.com/shvetsovart/ITMO-Programming-1-sem/blob/lab6/C.%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%206.%20%D0%90%D1%80%D1%85%D0%B8%D0%B2%D0%B0%D1%82%D0%BE%D1%80.pdf "Task") [Archiver]
 
-The task is to write an archiver. The program creates an archive with files, extracts files from an .arc archive and fives a list of files in an archive.
+The task is to write an archiver. The program creates an archive with files, extracts files from an .arc archive and outputs a list of files in an archive.
